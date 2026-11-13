@@ -1,0 +1,6 @@
+{
+  "name": "Sacha Wayra — Wayra Experience",
+  "description": "Guía interactiva de ruta y retos para viajeros en los Yungas de La Paz, Bolivia, creada por Wayra Experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
